@@ -1,4 +1,4 @@
-# AI/ML Project - Heart Disease Diagnosis 💖
+# AI/ML Project - Heart Disease Diagnosis 🫀
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/145870490-920d9d2d-bdcd-4dc9-abe5-729d18eb2453.jpg" style="width: 1000px;"/></p>
 
