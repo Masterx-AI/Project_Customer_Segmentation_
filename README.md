@@ -1,6 +1,6 @@
 # AI/ML Project - Customer Segmentaion 🧑🏻‍🤝‍🧑🏻👯🧑‍🤝‍🧑
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/145870490-920d9d2d-bdcd-4dc9-abe5-729d18eb2453.jpg" style="width: 1000px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/146764701-a341e41e-caaa-476a-9897-16c76f818203.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
